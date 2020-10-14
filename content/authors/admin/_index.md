@@ -1,78 +1,49 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: John Poch
+role: "POET : President’s Excellence Research Professor of English : Texas Tech University"
+avatar_filename: /poch1.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - name: Texas Tech University
+    url: ""
+superuser: true
+authors:
+  - admin
+# bio: my bio....
+# interests:
+#   - Dogs 
+#   - BBQ 
+#   - Information Retrieval
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:john.poch@ttu.edu"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/jpoch
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/pochphoto
+  - icon: facebook
+    icon_pack: fab
+    link: https://facebook.com/john.e.poch
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence 
+#       institution: TTU University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+John Poch earned an M.F.A. in Poetry from the University of Florida and a Ph.D. in English from the University of North Texas. He is President’s Excellence Research Professor of English in the creative writing program at Texas Tech University. His fifth collection of poems, Texases, was published in April 2019 (WordFarm Press). He has won many awards for his writing, including the New Criterion Poetry Prize, the Donald Justice Award for Poetry, the Discovery/Nation Prize, the Thornton Writer-in-Residence at Lynchburg College, the Colgate Creative Writing Fellowship, and recently an Everett Southwest Prize for his fiction. His first book, Poems, was published in January 2004 from Orchises Press and was a finalist for the PEN/Osterweil prize. He is the editor of the forthcoming book, Gracious: Poems from the 21st Century South (TTU Press 2020).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His book of essays on spiritual poems, Poetry and the Love of God, is forthcoming with B&H Academic in 2021. He has been awarded residencies at the MacDowell Colony, Headlands Center for the Arts, The Saltonstall Foundation, Fundación Valparaiso (Spain), Virginia Center for the Creative Arts, and Blue Mountain Center. He has published poems in Ploughshares, Paris Review, Yale Review, Iowa Review, Agni, and many other literary magazines. For ten years, he was the editor of the award-winning 32 Poems Magazine and is a co-editor of the poetry anthology: Old Flame: From the First Ten Years of 32 Poems Magazine. He was a Fulbright Core Scholar at the University of Barcelona in 2014. He is currently the series editor for the Vassar Miller Poetry Prize.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He lives in Lubbock, Texas, with his wife and two daughters.
