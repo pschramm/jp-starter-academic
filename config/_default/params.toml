@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "POET : President’s Excellence Research Professor of English : Texas Tech University"
+description = "POET : Paul Whitfield Horn Distinguished Professor of English : Texas Tech University"
 
 ############################
 ## Site Features
